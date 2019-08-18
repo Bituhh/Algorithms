@@ -1,9 +1,11 @@
 # Algorithms
+This is a list of algorithms that I am working in on, with the intentions of learning further techniques with 
+Python and in the field of Computer Science.
 
-...
+Current Algorithms:
+* Binary Tree
+
 ## Getting Started
-
-...
 
 ### Prerequisites
 
@@ -11,6 +13,16 @@ Python 3.5+
 
 ```
 sudo apt-get install python3
+```
+
+### Installing
+
+* Download the repo.
+* Uncomment the package that you are interested in the file setup.py.
+* In the working directory of Algorithms run: 
+
+```
+python -m pip install -e {path-to-folder-Algorithms}
 ```
 
 ## Author
