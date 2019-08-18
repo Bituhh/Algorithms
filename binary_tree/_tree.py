@@ -1,4 +1,5 @@
-from random import randint
+#!/usr/bin/env python3
+
 from typing import Optional, List, Union
 
 

@@ -1,1 +1,1 @@
-from _tree import Tree
+#!/usr/bin/env python3
